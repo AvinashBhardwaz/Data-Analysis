@@ -21,5 +21,5 @@ This project involves working with a different CSV file that aggregates various 
 ## Usage
 1. Clone this repository.
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/AvinashBhardwaz/Data-Analysis.git
 
