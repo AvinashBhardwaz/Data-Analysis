@@ -1,5 +1,9 @@
 backdated_commits.py
 
+backdated_commit.txt
+
+requirements.txt
+
 # Ignore Python-related files
 __pycache__/
 *.py[cod]
