@@ -1,0 +1,28 @@
+backdated_commits.py
+
+# Ignore Python-related files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.so
+*.dll
+*.DS_Store
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore log files
+*.log
+*.out
+*.err
+
+# Ignore IDE/editor settings
+.vscode/
+.idea/
+*.swpbackdated_commits.py
